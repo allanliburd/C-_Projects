@@ -1,2 +1,2 @@
 # Cplusplus_Projects
-C++ Projects on the RPi or Windows
+C/C++ Projects on the RPi or Windows
